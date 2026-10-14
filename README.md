@@ -1,4 +1,4 @@
-<div align="center">
+<div >
   <h1>Olá! Eu sou a Larissa Cena 👋</h1>
   <p><strong>Desenvolvedora de Software | Graduanda em Sistemas de Informação (UFS)</strong></p>
   <p>Construindo soluções web modernas, explorando arquitetura de software e tecnologia com propósito social e educacional.</p>
