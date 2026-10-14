@@ -3,7 +3,7 @@
   <p><strong>Desenvolvedora de Software | Graduanda em Sistemas de Informação (UFS)</strong></p>
   <p>Construindo soluções web modernas, explorando arquitetura de software e tecnologia com propósito social e educacional.</p>
 
-  <a href="https://linkedin.com/in/larissacena" target="_blank">
+  <a href="https://www.linkedin.com/in/larissa-cena-9712842a9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="larissacena.contato@gmail.com">
@@ -61,6 +61,6 @@
 ---
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=laristcena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=laristcena&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laristcena&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
